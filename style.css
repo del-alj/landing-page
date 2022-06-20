@@ -74,7 +74,7 @@ html, body {margin:0; padding:0;}
 #landing > .header > .button {font-size:.75em; border-width:.18em;}
 #landing > .header > .login {
   font-size:.875em;
-  color:red;
+  color:black;
   font-weight:bold;
   text-decoration:none;
   text-transform:uppercase;
@@ -91,7 +91,7 @@ html, body {margin:0; padding:0;}
   background-size:contain;
 }
 #landing > .header > .login:hover {
-  border:.166em solid red;
+  border:.166em solid black;
   border-radius:2em;
   padding:0 1em;
 }
@@ -361,5 +361,6 @@ body {
 .background {
 
   padding: 15px !important;
-  background-color: #3e4e5c;
+  background-color: #6c6f6c6f;
+  
 }
