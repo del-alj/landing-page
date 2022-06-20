@@ -357,3 +357,9 @@ body {
  left: 13px;
  position: fixed;
 }
+
+.background {
+
+  padding: 15px !important;
+  background-color: #3e4e5c;
+}
